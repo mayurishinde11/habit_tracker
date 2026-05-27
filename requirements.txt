@@ -3,3 +3,18 @@ pandas>=2.0.0
 scikit-learn>=1.3.0
 matplotlib>=3.7.0
 seaborn>=0.13.0
+
+
+
+
+# See what changed
+# git status
+
+# # Stage changes
+# git add .
+
+# # Commit with a message
+# git commit -m "Fix: resolved expander overlap on Manage Habits page"
+
+# # Push to GitHub
+# git push
