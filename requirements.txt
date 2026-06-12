@@ -18,3 +18,5 @@ seaborn>=0.13.0
 
 # # Push to GitHub
 # git push
+
+#streamlit run app.py 
